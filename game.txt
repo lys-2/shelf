@@ -1,6 +1,64 @@
 a w y
 
 Valve
-	Dota 2; 2013
-	Half-life 2;
+	Dota 2; 2013;
+	Half-life; 1998;
+	Half-life 2; 2004;
+	Portal; 2007;
+	Portal 2; 2011;
+	Counter-Strike; 2000;
+	Counter-Strike Source; 2004;
+	Counter-Strike Global Offensive; 2012;
 
+Blizzard
+	Warcraft III; 2002;
+	Diablo II; 2000;
+	World of Warcraft; 2004;
+	Overwatch; 2016;
+
+Bioware
+	Neverwinter Nights; 2002;
+	Star Wars The Old Republic; 2011;
+	Mass Effect; 2007;
+	Mass Effect 2; 2010;
+	Mass Effect 3; 2012;
+	Dragon Age: Origins; 2009;
+	Dragon Age II; 2011;
+	Star Wars: Knights of the Old Republic; 2003;
+
+
+Obsidian Entertainment
+	Star Wars: Knights of the Old Republic II; 2004;
+	Neverwinter Nights 2; 2006;
+	Dungeon Siege III; 2011;
+
+Ubisoft
+	Tom Clancy's Ghost Recon; 2001;
+	Steep; 2016;
+	Tom Clancy's The Division 2; 2019;
+
+Lionhead Studios
+	Fable; 2004;
+	Fable 3; 2010;
+	Black & White 2; 2005;
+
+Wizards of the Coast
+	Magic: The Gathering Arena; 2019;
+
+Arkane Studios
+	Dark Messiah of Might and Magic; 2006;
+	Dishonored; 2012;
+
+Epic Games
+	Unreal Tournament; 1999;
+	Unreal Tournament 3; 2007;
+	Fortnite; 2016;
+Legend Entertainment
+	Unreal 2; 2003;
+
+Argonaut Software
+	Croc: Legend of the Gobbos; 1997;
+
+id Software
+	Quake III Arena; 1999;
+	
