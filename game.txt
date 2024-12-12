@@ -12,12 +12,13 @@ Valve
 
 Blizzard
 	Warcraft III; 2002;
-	Diablo II; 2000;
-	World of Warcraft; 2004;
-	Overwatch; 2016;
+	Diablo II; 2000; <S 9;
+	World of Warcraft; 2004; <S 9;
+	Overwatch; 2016; <S 3;
 
 Bioware
-	Neverwinter Nights; 2002;
+	Neverwinter Nights; 2002; <S 10;
+		<H Land of Nordock; Toolset;
 	Star Wars The Old Republic; 2011;
 	Mass Effect; 2007;
 	Mass Effect 2; 2010;
@@ -113,3 +114,50 @@ Larian Studios
 New World Computing
 	Heroes of Might and Magic III; 1999;
 	Heroes of Might and Magic IV; 2002;
+
+CCP Games
+	Eve Online; 2003;
+
+NCSoft
+	Lineage II; 2004;
+	Aion; 2009;
+
+Joymax 
+	Silkroad Online; 2005;
+
+Turbine Inc.
+	Dungeons & Dragons Online; 2006;
+	The Lord of the Rings Online; 2007;
+
+Funcom
+	Age of Conan: Hyborian Adventures; 2008;
+	The Secret World; 2012;
+
+Trion Worlds
+	Rift; 2011;
+
+XL Games
+	ArcheAge; 2014;
+
+Square Enix
+	Final Fantasy 10; 2002;
+	Final Fantasy 13; 2009;
+	Final Fantasy 14; 2013;
+	Final Fantasy 15; 2016;
+	Dragon Quest 11; 2017;
+	Kingdom Hearts; 2002;
+	Kingdom Hearts Birth by Sleep; 2010;
+
+Mojang Studios
+	Minecraft; 2011;
+
+Bay 12 Games
+	Dwarf Fortress; 2006;
+
+FromSoftware
+	Ninja Blade; 2009;
+	Dark Souls; 2011;
+	Dark Souls 2; 2014;
+	Dark Souls 3; 2016;
+	Sekiro: Shadows Die Twice; 2019;
+	Elden Ring; 2022;
