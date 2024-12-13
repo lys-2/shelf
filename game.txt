@@ -140,7 +140,7 @@ XL Games
 	ArcheAge; 2014;
 
 Square Enix
-	Final Fantasy 10; 2002;
+	Final Fantasy 10; 2001;
 	Final Fantasy 13; 2009;
 	Final Fantasy 14; 2013;
 	Final Fantasy 15; 2016;

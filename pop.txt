@@ -12,3 +12,8 @@ Cole Porter
 	Nymph Errant; 1933;
 	Anything Goes; 1934;
 	Jubilee; 1935;
+
+Françoise Hardy
+	La Question; 1971;
+	Décalages; 1988;
+	Le Danger; 1996;
