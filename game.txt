@@ -161,3 +161,10 @@ FromSoftware
 	Dark Souls 3; 2016;
 	Sekiro: Shadows Die Twice; 2019;
 	Elden Ring; 2022;
+
+Phenomic Game Development
+	SpellForce; 2003;
+
+Ice-Pick Lodge
+	Мор (Утопия); 2005;
+	Тургор; 2008;
