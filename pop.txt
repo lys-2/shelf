@@ -22,3 +22,26 @@ Françoise Hardy
 	Quelqu'un qui s'en va; 1982;
 	Décalages; 1988;
 	Le Danger; 1996;
+
+Tangerine Dream
+	Rubycon; 1975;
+	Exit; 1981;
+	Optical Race; 1988;
+
+Kraftwerk
+	Kraftwerk 2; 1972;
+	Trans Europa Express; 1977;
+
+Manuel Göttsching
+	E2-E4; 1984;
+
+Karat
+	Der blaue Planet; 1982;
+
+Steve Reich
+	Music for 18 Musicians; 1978;
+	Electric Counterpoint; 1987;
+
+Pat Metheny Group
+	Still Life; 1987;
+	Letter from Home; 1989;
