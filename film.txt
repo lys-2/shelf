@@ -4,6 +4,10 @@ Federico Fellini
 	Juliet of the Spirits; 1965;
 	Fellini Satyricon; 1969;
 
+Luchino Visconti
+	Bellissima; 1951;
+	Le notti bianche; 1957;
+
 Denys Arcand
 	Jésus de Montréal; 1989;
 	Les Invasions barbares; 2003;
@@ -25,6 +29,9 @@ Gary Ross
 Григорий Козинцев
 	Гамлет; 1964;
 	Король Лир; 1970;
+
+Иван Пырьев
+	Белые ночи; 1959;
 
 Рустам Ильясов
 	Трудные подростки; 2019; <P;
