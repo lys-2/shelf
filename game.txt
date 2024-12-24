@@ -162,8 +162,24 @@ FromSoftware
 	Sekiro: Shadows Die Twice; 2019;
 	Elden Ring; 2022;
 
+Capcom
+	Devil May Cry 4; 2008;
+	DmC: Devil May Cry; 2013;
+	Devil May Cry 5; 2019;
+	Resident Evil 4; 2023; <P;
+
 Phenomic Game Development
 	SpellForce; 2003;
+
+Broderbund
+	Prince of Persia; 1989;
+
+Hudson Soft
+	Mickey Mousecapade; 1987;
+
+KAZe
+	Zombie Nation; 1990;
+
 
 Ice-Pick Lodge
 	Мор (Утопия); 2005;
