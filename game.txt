@@ -1,14 +1,18 @@
-a w y
+a w y {t}
 
 Valve
 	Dota 2; 2013;
+		<PT 8000; <H Phoenix; Ethereal blade; Elder titan;
+		<R Ancient 4;
 	Half-life; 1998;
 	Half-life 2; 2004;
 	Portal; 2007;
 	Portal 2; 2011;
 	Counter-Strike; 2000;
+		<H GoldSrc;
 	Counter-Strike Source; 2004;
 	Counter-Strike Global Offensive; 2012;
+		<H de_canals; G3SG1;
 
 Blizzard
 	Warcraft III; 2002;
@@ -52,7 +56,8 @@ Arkane Studios
 Epic Games
 	Unreal Tournament; 1999;
 	Unreal Tournament 3; 2007;
-	Fortnite; 2016;
+	Fortnite; 2016; 
+		<H Chapter 5: Season 1; <R Champion;
 Legend Entertainment
 	Unreal 2; 2003;
 
@@ -110,6 +115,7 @@ Bethesda Softworks
 
 Larian Studios
 	Beyond Divinity; 2004;
+	Baldur's Gate 3; 2023; <P; 
 
 New World Computing
 	Heroes of Might and Magic III; 1999;
@@ -140,9 +146,15 @@ XL Games
 	ArcheAge; 2014;
 
 Square Enix
-	Final Fantasy 10; 2001;
+	Final Fantasy 7; 1997;
+	Final Fantasy 8; 1999;
+	Final Fantasy X; 2001;
+	Final Fantasy X-2; 2003;
 	Final Fantasy 13; 2009;
+	Final Fantasy XIII-2; 2011;
+	Lightning Returns: Final Fantasy XIII; 2013;
 	Final Fantasy 14; 2013;
+		<H Shadowbringers; Endwalker;
 	Final Fantasy 15; 2016;
 	Dragon Quest 11; 2017;
 	Kingdom Hearts; 2002;
@@ -154,6 +166,9 @@ Mojang Studios
 Bay 12 Games
 	Dwarf Fortress; 2006;
 
+Heart Machine
+	Hyper Light Drifter; 2016;
+
 FromSoftware
 	Ninja Blade; 2009;
 	Dark Souls; 2011;
@@ -161,6 +176,7 @@ FromSoftware
 	Dark Souls 3; 2016;
 	Sekiro: Shadows Die Twice; 2019;
 	Elden Ring; 2022;
+		<H Shadow of the Erdtree; Moonveil; Comet;
 
 Capcom
 	Devil May Cry 4; 2008;
@@ -168,8 +184,18 @@ Capcom
 	Devil May Cry 5; 2019;
 	Resident Evil 4; 2023; <P;
 
+Bandai Namco Studios
+	Tales of Zestiria; 2015;
+	Tales of Berseria; 2016; <H Demo;
+
+Team Salvato
+	Doki Doki Literature Club!; 2017;
+
 Phenomic Game Development
 	SpellForce; 2003;
+
+Piranha Bytes
+	Gothic II; 2002;
 
 Broderbund
 	Prince of Persia; 1989;
