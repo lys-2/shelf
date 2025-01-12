@@ -160,6 +160,9 @@ Square Enix
 	Kingdom Hearts; 2002;
 	Kingdom Hearts Birth by Sleep; 2010;
 
+Atlus
+	Shin Megami Tensei III: Nocturne; 2003;
+
 Mojang Studios
 	Minecraft; 2011;
 
