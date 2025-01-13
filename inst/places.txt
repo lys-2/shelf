@@ -1,0 +1,16 @@
+name
+
+Village
+	<R Woods; Field; Shop; House; House2; Town;
+
+House
+	<R Room; Bath; Kitchen; Attic; Basement;
+
+Town
+	<R Market; School; City;
+
+Woods
+	<R Field;
+
+
+
