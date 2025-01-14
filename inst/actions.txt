@@ -1,0 +1,16 @@
+name cd cost {a}
+	
+	Spawn 1 1
+		Term[32];
+		Place[16];
+
+	Move 1 1
+		Place[16];
+
+	Say 1 1
+		Str[100];		
+
+	Use 1 1
+		Item[16];
+
+	Quit 0 0

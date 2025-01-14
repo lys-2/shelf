@@ -1,4 +1,4 @@
-name
+name {t}
 
 Village
 	<R Woods; Field; Shop; House; House2; Town;
@@ -7,10 +7,14 @@ House
 	<R Room; Bath; Kitchen; Attic; Basement;
 
 Town
-	<R Market; School; City;
+	<R Market; School; City; Plant; Sewer;
 
 Woods
 	<R Field;
 
+Room
+	<R Box;
+	<SP Bob; Clothes[3];
 
-
+Basement
+	<SP Rat[3];

@@ -1,0 +1,7 @@
+name
+
+Bob
+	<Age 16; <Gen M; <BD 1:13:2008;
+
+Alice
+	<Age 17; Gen F;

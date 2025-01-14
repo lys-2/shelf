@@ -1,0 +1,20 @@
+name {t}
+
+	Stick
+		<AD 2;		
+
+	Backpack
+
+	Clothes
+		<CV 2;
+
+	Gear
+		<AR 2;
+
+	Food
+
+	Bottle
+
+	Phone
+
+	Map
