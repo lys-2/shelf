@@ -7,14 +7,14 @@ House
 	<R Room; Bath; Kitchen; Attic; Basement;
 
 Town
-	<R Market; School; City; Plant; Sewer;
+	<R Market; School; City; Plant; Sewer; Tents;
 
 Woods
 	<R Field;
 
 Room
 	<R Box;
-	<SP Bob; Clothes[3];
+	<SP Bob; Backpack; Clothes[3];
 
 Basement
 	<SP Rat[3];
