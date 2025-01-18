@@ -1,4 +1,4 @@
-a w y {t}
+a {w y {t}}
 
 Valve
 	Dota 2; 2013;
@@ -156,6 +156,7 @@ Square Enix
 	Final Fantasy 14; 2013;
 		<H Shadowbringers; Endwalker;
 	Final Fantasy 15; 2016;
+	Xenogears; 1998;
 	Dragon Quest 11; 2017;
 	Kingdom Hearts; 2002;
 	Kingdom Hearts Birth by Sleep; 2010;
@@ -171,6 +172,19 @@ Bay 12 Games
 
 Heart Machine
 	Hyper Light Drifter; 2016;
+
+Arrowhead Game Studios
+	Magicka; 2011;
+
+Contingent99
+	Wizard of Legend; 2018;
+
+ZA/UM
+	Disco Elysium; 2019;
+
+CD Projekt Red
+	The Witcher 2: Assassins of Kings; 2011;
+	The Witcher 3: Wild Hunt; 2015;
 
 FromSoftware
 	Ninja Blade; 2009;
@@ -215,3 +229,6 @@ Microsoft
 Ice-Pick Lodge
 	Мор (Утопия); 2005;
 	Тургор; 2008;
+
+Morteshka
+	Чёрная книга; 2021;

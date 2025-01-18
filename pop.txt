@@ -1,4 +1,4 @@
-a w y
+a {w y}
 
 Sonic Youth
 	Washing Machine; 1995;
@@ -60,5 +60,7 @@ Michael Tilson Thomas
 	Four Preludes on Playthings of the Wind; 2016;
 	Meditations on Rilke; 2019;
 
-Seiko Matsuda;
+Seiko Matsuda
+	Pineapple; 1982;
 	Canary; 1983;
+	Windy Shadow; 1984;
