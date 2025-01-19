@@ -149,17 +149,19 @@ Square Enix
 	Final Fantasy 7; 1997;
 	Final Fantasy 8; 1999;
 	Final Fantasy X; 2001;
-	Final Fantasy X-2; 2003;
+	Final Fantasy X-2; 2003; <S 8;
 	Final Fantasy 13; 2009;
 	Final Fantasy XIII-2; 2011;
 	Lightning Returns: Final Fantasy XIII; 2013;
 	Final Fantasy 14; 2013;
-		<H Shadowbringers; Endwalker;
+		<H Shadowbringers; <Y 2019;
+			 Endwalker; <Y 2021;
 	Final Fantasy 15; 2016;
 	Xenogears; 1998;
+	Chrono Cross; 1999;
 	Dragon Quest 11; 2017;
 	Kingdom Hearts; 2002;
-	Kingdom Hearts Birth by Sleep; 2010;
+	Kingdom Hearts Birth by Sleep; 2010; <S 9;
 
 Atlus
 	Shin Megami Tensei III: Nocturne; 2003;
@@ -205,6 +207,9 @@ Bandai Namco Studios
 	Tales of Zestiria; 2015;
 	Tales of Berseria; 2016; <H Demo;
 
+miHoYo
+	Honkai: Star Rail; 2023;
+
 Team Salvato
 	Doki Doki Literature Club!; 2017;
 
@@ -222,6 +227,10 @@ Hudson Soft
 
 KAZe
 	Zombie Nation; 1990;
+
+Sierra Entertainment
+	Wizard and the Princess; 1980; <P;
+	King's Quest IV; 1988; <P;
 
 Microsoft 
 	3D Pinball for Windows – Space Cadet; 1995;

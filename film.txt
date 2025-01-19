@@ -26,6 +26,12 @@ Gary Ross
 Woody Allen
 	Another Woman; 1988;
 
+Bob Hoskins
+	Rainbow; 1996;
+
+Greg Beeman
+	Mom and Dad Save the World; 1992;
+
 Леонид Гайдай
 	12 стульев; 1971; <C Не корысти ради;
 	Иван Васильевич меняет профессию; 1973; <C Икра чёрная, красная;
@@ -46,8 +52,15 @@ Woody Allen
 Владимир Фетин
 	Полосатый рейс; 1961;
 
+Генрих Оганисян
+	Три плюс два; 1963;
+
 Юлий Гусман
 	Парк советского периода; 2006;
 
 Рустам Ильясов
 	Трудные подростки; 2019; <P;
+
+Will McRobb & Chris Viscardi
+	The Adventures of Pete & Pete; 1993;
+	
