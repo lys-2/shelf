@@ -104,6 +104,7 @@ Eidos-Montréal
 
 Riot Games
 	League of Legends; 2009;
+	<R Bronze II; <H Aurelion Sol; Senna; Lulu; Lux;
 
 Momentum DMT
 	Culpa Innata; 2007;
@@ -188,6 +189,9 @@ CD Projekt Red
 	The Witcher 2: Assassins of Kings; 2011;
 	The Witcher 3: Wild Hunt; 2015;
 
+Gearbox Software
+	Borderlands 2;
+
 FromSoftware
 	Ninja Blade; 2009;
 	Dark Souls; 2011;
@@ -231,6 +235,9 @@ KAZe
 Sierra Entertainment
 	Wizard and the Princess; 1980; <P;
 	King's Quest IV; 1988; <P;
+
+The NetHack DevTeam
+	NetHack; 1987;
 
 Microsoft 
 	3D Pinball for Windows – Space Cadet; 1995;

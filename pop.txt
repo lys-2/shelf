@@ -12,6 +12,10 @@ Radiohead
 	The Bends; 1995;
 	In Rainbows; 2007;
 
+Prefab Sprout
+	Jordan: The Comeback; 1990;
+	Andromeda Heights; 1997;
+
 Cole Porter
 	Nymph Errant; 1933;
 	Anything Goes; 1934;
@@ -64,3 +68,7 @@ Seiko Matsuda
 	Pineapple; 1982;
 	Canary; 1983;
 	Windy Shadow; 1984;
+
+Ryuichi Sakamoto
+	Smoochy; 1995;
+	Async; 2017;

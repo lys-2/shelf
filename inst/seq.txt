@@ -1,2 +1,8 @@
 action {attr}
 
+move Box
+say I'm in the box!
+move Room
+say Back.
+move House
+move Kitchen
