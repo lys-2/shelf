@@ -27,3 +27,6 @@ Antonio Salieri
 Alexander von Zemlinsky
 	Lieder; 1896;
 	Der Zwerg; 1921;
+
+Erich Wolfgang Korngold
+	Theme and Variations; 1953;
