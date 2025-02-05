@@ -190,7 +190,7 @@ CD Projekt Red
 	The Witcher 3: Wild Hunt; 2015;
 
 Gearbox Software
-	Borderlands 2;
+	Borderlands 2; 2012;
 
 FromSoftware
 	Ninja Blade; 2009;
@@ -210,6 +210,9 @@ Capcom
 Bandai Namco Studios
 	Tales of Zestiria; 2015;
 	Tales of Berseria; 2016; <H Demo;
+
+Game Freak
+	Pokémon Red; 1996; <P;
 
 miHoYo
 	Honkai: Star Rail; 2023;
@@ -237,7 +240,7 @@ Sierra Entertainment
 	King's Quest IV; 1988; <P;
 
 The NetHack DevTeam
-	NetHack; 1987;
+	NetHack; 1987; <P;
 
 Microsoft 
 	3D Pinball for Windows – Space Cadet; 1995;
