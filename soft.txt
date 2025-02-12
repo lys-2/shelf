@@ -7,3 +7,17 @@ Microsoft
 Epic Games
 	Unreal Engine 4; 2014;
 	Unreal Engine 5; 2022;
+
+Ramon Santamaria and contributors
+	Raylib; 2013;
+
+ISO/IEC JTC 1/SC 22
+	C++; 1985;
+	C; 1972;
+
+Python Software Foundation
+	Python; 1991;
+
+Google
+	Search; 1997;
+	Play; 2012;
