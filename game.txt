@@ -2,7 +2,7 @@ a {w y {t}}
 
 Valve
 	Dota 2; 2013;
-		<PT 8000; <H Phoenix; Ethereal blade; Elder titan;
+		<PT 8000; <H Phoenix; Ethereal blade; Elder titan; Luna;
 		<R Ancient 4;
 	Half-life; 1998;
 	Half-life 2; 2004;
@@ -175,6 +175,9 @@ Bay 12 Games
 
 Heart Machine
 	Hyper Light Drifter; 2016;
+
+Fluttermind
+	Moonring; 2023;
 
 Arrowhead Game Studios
 	Magicka; 2011;

@@ -64,10 +64,17 @@ Michael Tilson Thomas
 	Four Preludes on Playthings of the Wind; 2016;
 	Meditations on Rilke; 2019;
 
+Suzanne Ciani
+	Seven Waves; 1982;
+	Hotel Luna; 1991;
+
 Seiko Matsuda
 	Pineapple; 1982;
 	Canary; 1983;
 	Windy Shadow; 1984;
+
+Yuki Saito
+	Axia; 1985;
 
 Ryuichi Sakamoto
 	Smoochy; 1995;
@@ -76,3 +83,6 @@ Ryuichi Sakamoto
 Battles
 	<H Atlas;
 	Gloss Drop; 2011;
+
+Billie Holiday
+	Songs For Distingué Lovers; 1957;
