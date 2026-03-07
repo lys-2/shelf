@@ -84,5 +84,8 @@ Battles
 	<H Atlas;
 	Gloss Drop; 2011;
 
+Spiritualized
+	Pure Phase; 1995;
+
 Billie Holiday
 	Songs For Distingué Lovers; 1957;
