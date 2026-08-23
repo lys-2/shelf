@@ -29,7 +29,9 @@ Tite Kubo
 
 Eiichiro Oda
 	One Piece; 1999;
-		<P Dressrosa 1; <Y 2014;
+		<T 690;
+		<H Thriller Bark; <Y 2008;		
+		<H Dressrosa 1; <Y 2014;
 		<P Dressrosa 2; <Y 2015;
 		<P Zou; <Y 2016;
 		<P Whole Cake 1; <Y 2017;
