@@ -28,13 +28,15 @@ Masashi Kishimoto
 Tite Kubo
 	Bleach; 2004;
 	Bleach: Thousand-Year Blood War; 2022;
+Gege Akutami
+	<P Jujutsu Kaisen; 2020;
 
 Eiichiro Oda
 	One Piece; 1999;
-		<T 690;
+		<T 747;
 		<H Thriller Bark; <Y 2008;		
 		<H Dressrosa 1; <Y 2014;
-		<P Dressrosa 2; <Y 2015;
+		<H Dressrosa 2; <Y 2015;
 		<P Zou; <Y 2016;
 		<P Whole Cake 1; <Y 2017;
 		<P Whole Cake 2; <Y 2018;
